@@ -70,6 +70,10 @@ p {
     justify-content: center;
   }
 
+  .greeting{
+    text-align: center;
+  }
+
   iframe, video {
     display: flex;
     flex-direction: column;
